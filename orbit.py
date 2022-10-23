@@ -104,7 +104,3 @@ ax.set_zlabel('z') # обозначение оси z
 plt.show()
 
 input()
-
-
-
-
