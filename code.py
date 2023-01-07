@@ -118,7 +118,3 @@ def visualization(x, y, object):
 
 if __name__ == '__main__':
     main()
-
-
-
-
